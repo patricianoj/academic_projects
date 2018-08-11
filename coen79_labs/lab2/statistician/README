@@ -1,0 +1,2 @@
+g++ -o stat main.cpp statistician.cpp
+./stat

@@ -1,0 +1,2 @@
+g++ -o rand main.cpp random.cpp
+./rand
