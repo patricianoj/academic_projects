@@ -72,3 +72,6 @@ Add the following functionality:
 * Reverse the linked lists using recursion
 
 # Lab 9 - Split code from Lab 8
+
+# Lab 10 - Autosave list to file
+Have an auto-saver thread in a forever loop to save the info from the list to atext file every 5 seconds.
