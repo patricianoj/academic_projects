@@ -64,12 +64,7 @@ Restaurant Waiting List with 4 ranges of group sizes
 Use an array of linked lists. One list per range
 
 # Lab 7 - Restaurant Waiting List with File Input/Output
-Initially, the waiting list may be either empty or formed with information read from a file. At the end, the updated waiting list is saved into a file. The waiting list is created/modified  interactively, except that command quit will save the info into a file. The name of the file is an argument for the program. The info should be saved in a text filea ccording to the following format:
-Name                    Group Size
-----------------------------------
-Joe                     5    
-Mary                    3
-Zoe                     3
+Initially, the waiting list may be either empty or formed with information read from a file. At the end, the updated waiting list is saved into a file. The waiting list is created/modified  interactively, except that command quit will save the info into a file. The name of the file is an argument for the program. 
 
 # Lab 8 - Extension of Lab 7
 Add the following functionality: 
